@@ -16,10 +16,7 @@ jobs:
       - name: Update GitHub Activity
         uses: Readme-Workflows/recent-activity@main
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          username: rmunoz-c
-          repo: rmunoz-c
-          target_file: README.md
+          CONFIG_FILE: .github/recent-activity.config.yml
 
       - name: Commit changes
         run: |
