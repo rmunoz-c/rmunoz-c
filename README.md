@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rmunoz-c/rmunoz-c/blob/main/rmunoz-c.png" alt="¡Hola! Soy Rubén Muñoz Calderón" />
+  <img src="https://github.com/rmunoz-c/rmunoz-c/blob/main/rmunoz-c.png?raw=true" alt="Banner personalizado" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
