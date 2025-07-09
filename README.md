@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/¡Hola!%20Soy%20Rubén%20Muñoz%20Calderón-ff4500?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github.com/rmunoz-c/rmunoz-c/blob/main/rmunoz-c.png" alt="¡Hola! Soy Rubén Muñoz Calderón" />
 </p>
 <h3 align="center">Soy Rubén Muñoz Calderón, desarrollador apasionado por la tecnología 🚀 / I’m Rubén Muñoz Calderón, a developer passionate about technology 🚀</h3>
 
@@ -67,7 +67,7 @@
 ## 📫 Contacto / Contact
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/rubén-muñoz-calderón-730642340" target="_blank">
+  <a href="http://www.linkedin.com/in/rmunoz-c" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rq.munoz.nsp@gmail.com" target="_blank">
