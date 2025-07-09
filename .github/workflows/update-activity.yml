@@ -1,1 +1,34 @@
+name: Update Last Activity in README
 
+on:
+  schedule:
+    - cron: '0 * * * *' # Cada hora
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Get last commit date
+        id: last_commit
+        run: |
+          LAST_DATE=$(git log -1 --format=%cd --date=iso)
+          echo "last_date=$LAST_DATE" >> $GITHUB_OUTPUT
+
+      - name: Update README with last activity
+        run: |
+          # Reemplaza la sección entre los marcadores con la fecha
+          sed -i "/<!--START_LAST_ACTIVITY-->/, /<!--END_LAST_ACTIVITY-->/c\
+<!--START_LAST_ACTIVITY-->\
+Última actividad: ${{ steps.last_commit.outputs.last_date }}\
+<!--END_LAST_ACTIVITY-->" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && echo "No changes to commit" || git commit -m "Actualizar última actividad en README"
+          git push
