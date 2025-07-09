@@ -14,7 +14,7 @@
 - 🎯 **Objetivo:** Aprender todo lo posible y seguir mejorando cada día dentro de este apasionante mundo de la informática.  
  🎯 **Goal:** To learn as much as possible and keep growing every day within this fascinating world of computer science.
 
-- ⚡ **Dato curioso** Soy un friki entusiasta, especialmente de los videojuegos. ¡Me encantaría algún día participar en el desarrollo de uno!  
+- ⚡ **Dato curioso:** Soy un friki entusiasta, especialmente de los videojuegos. ¡Me encantaría algún día participar en el desarrollo de uno!  
 ⚡ **Fun fact:** I'm a passionate geek, especially about video games. I'd love to take part in developing one someday!
 
 ---
