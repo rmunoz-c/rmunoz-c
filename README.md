@@ -37,13 +37,11 @@
 
 ## 📊 Estadísticas de GitHub / GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmunoz-c&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=rmunoz-c&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmunoz-c&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmunoz-c&layout=compact&theme=radical" alt="Lenguajes más usados" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rmunoz-c&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rmunoz-c&theme=dracula" alt="Gráfico de actividad" />
@@ -55,7 +53,6 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rmunoz-c&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
