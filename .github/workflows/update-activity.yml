@@ -2,7 +2,7 @@ name: Update GitHub Activity in README
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Ejecutar cada hora
+    - cron: '0 * * * *'  # cada hora
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
           fetch-depth: 0
 
       - name: Update GitHub Activity
-        uses: Readme-Workflows/recent-activity@v2
+        uses: Readme-Workflows/recent-activity@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           username: rmunoz-c
