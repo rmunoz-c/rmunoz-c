@@ -55,6 +55,12 @@
   </a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rmunoz-c&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ---
 
 ## 📫 Contacto / Contact
@@ -67,6 +73,10 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+---
+
+![Visitas](https://komarev.com/ghpvc/?username=rmunoz-c&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
