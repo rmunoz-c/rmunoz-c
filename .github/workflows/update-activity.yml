@@ -2,7 +2,7 @@ name: Update Last Activity in README
 
 on:
   schedule:
-    - cron: '0 * * * *' # Cada hora
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,11 +15,14 @@ jobs:
         id: last_commit
         run: |
           LAST_DATE=$(git log -1 --format=%cd --date=iso)
-          echo "last_date=$LAST_DATE" >> $GITHUB_OUTPUT
+          echo "Last commit date: $LAST_DATE"
+          echo "::set-output name=last_date::$LAST_DATE"
 
-      - name: Update README with last activity
+      - name: Show last date from output
+        run: echo "Última actividad: ${{ steps.last_commit.outputs.last_date }}"
+
+      - name: Update README
         run: |
-          # Reemplaza la sección entre los marcadores con la fecha
           sed -i "/<!--START_LAST_ACTIVITY-->/, /<!--END_LAST_ACTIVITY-->/c\
 <!--START_LAST_ACTIVITY-->\
 Última actividad: ${{ steps.last_commit.outputs.last_date }}\
