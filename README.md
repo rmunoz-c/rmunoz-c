@@ -8,23 +8,28 @@
 - 💼 **Profesión:** Desarrollador de software con especial interés en el backend y la arquitectura de sistemas.  
   **Profession:** Software developer with a strong interest in backend and system architecture.
 
-- 🌱 **Actualmente aprendiendo / Currently learning:** Kubernetes, microservicios y un poco de DevOps.
+- 🌱 **Actualmente aprendiendo / Currently learning:** Kubernetes, microservicios & DevOps.
 
-- 🎯 **Objetivo / Goal:** Crear soluciones que realmente marquen la diferencia, mientras disfruto el proceso de aprendizaje continuo.
+- 🎯 **Objetivo:** Aprender todo lo posible y seguir mejorando cada día dentro de este apasionante mundo de la informática.
+  **Goal:** To learn as much as possible and keep growing every day within this fascinating world of computer science.
 
-- ⚡ **Dato curioso / Fun fact:** ¡Me encanta el café tanto como programar! ☕💻
+- ⚡ **Dato curioso** Soy un friki entusiasta, especialmente de los videojuegos. ¡Me encantaría algún día participar en el desarrollo de uno!
+**Fun fact:** I'm a passionate geek, especially about video games. I'd love to take part in developing one someday!
 
 ---
 
 ## 🛠️ Tecnologías & Herramientas / Technologies & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Oracle VM-VirtualBox-blue?logo=virtualbox&logoColor=white&style=for-the-badge" alt="Oracle VM"/>
+  <img src="https://img.shields.io/badge/Makefile-automation-lightgrey?style=for-the-badge" alt="Makefile"/>
+  <img src="https://img.shields.io/badge/Valgrind-debugging-green?style=for-the-badge" alt="Valgrind"/>
 </p>
 
 ---
