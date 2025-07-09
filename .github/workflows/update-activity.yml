@@ -15,14 +15,15 @@ jobs:
         id: last_commit
         run: |
           LAST_DATE=$(git log -1 --format=%cd --date=iso)
-          echo "last_date=$LAST_DATE" >> $GITHUB_ENV
+          echo "LAST_DATE=$LAST_DATE" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          sed -i "/<!--START_LAST_ACTIVITY-->/, /<!--END_LAST_ACTIVITY-->/c\
-<!--START_LAST_ACTIVITY-->\
-Última actividad: ${LAST_DATE}\
-<!--END_LAST_ACTIVITY-->" README.md
+          awk -v last_date="$LAST_DATE" '
+            /<!--START_LAST_ACTIVITY-->/ {print; print "Última actividad: " last_date; skip=1; next}
+            /<!--END_LAST_ACTIVITY-->/ {skip=0}
+            skip==0
+          ' README.md > tmp && mv tmp README.md
 
       - name: Commit changes
         run: |
