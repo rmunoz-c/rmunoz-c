@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/rmunoz-c/rmunoz-c/blob/main/rmunoz-c.png" alt="¡Hola! Soy Rubén Muñoz Calderón" />
 </p>
+<h1 align="center">¡Hola! / Hi there! 👋</h1>
 <h3 align="center">Soy Rubén Muñoz Calderón, desarrollador apasionado por la tecnología 🚀 / I’m Rubén Muñoz Calderón, a developer passionate about technology 🚀</h3>
 
 ---
