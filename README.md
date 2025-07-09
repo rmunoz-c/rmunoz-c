@@ -8,7 +8,8 @@
 - 💼 **Profesión:** Desarrollador de software con especial interés en el backend y la arquitectura de sistemas.  
   **Profession:** Software developer with a strong interest in backend and system architecture.
 
-- 🌱 **Actualmente aprendiendo / Currently learning:** Kubernetes, microservicios & DevOps.
+- 🌱 **Actualmente aprendiendo:** Mejorando mis habilidades en C y C++, profundizando en algoritmos y estructuras de datos, dominando Makefiles, debugging con Valgrind, y afianzando mi manejo del terminal y herramientas Linux gracias al common core de 42.
+**Currently learning:** Improving my C and C++ skills, diving deeper into algorithms and data structures, mastering Makefiles, debugging with Valgrind, and strengthening my command of the terminal and Linux tools thanks to the 42 common core.
 
 - 🎯 **Objetivo:** Aprender todo lo posible y seguir mejorando cada día dentro de este apasionante mundo de la informática.  
   **Goal:** To learn as much as possible and keep growing every day within this fascinating world of computer science.
