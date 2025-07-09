@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/¡Hola!%20Soy%20Rubén%20Muñoz%20Calderón-ff8c00?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/¡Hola!%20Soy%20Rubén%20Muñoz%20Calderón-ff4500?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <h3 align="center">Soy Rubén Muñoz Calderón, desarrollador apasionado por la tecnología 🚀 / I’m Rubén Muñoz Calderón, a developer passionate about technology 🚀</h3>
 
