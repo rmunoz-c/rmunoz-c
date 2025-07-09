@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rmunoz-c/rmunoz-c/blob/main/rmunoz-c.png?raw=true" alt="Banner personalizado" style="max-width: 100%; height: auto;" />
+  <img src="https://github.com/rmunoz-c/rmunoz-c/blob/main/rmunoz-c.png?raw=true" alt="Banner personalizado" width="1000" height="250" />
 </p>
 
 ---
