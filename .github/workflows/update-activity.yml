@@ -15,17 +15,13 @@ jobs:
         id: last_commit
         run: |
           LAST_DATE=$(git log -1 --format=%cd --date=iso)
-          echo "Last commit date: $LAST_DATE"
-          echo "::set-output name=last_date::$LAST_DATE"
-
-      - name: Show last date from output
-        run: echo "Última actividad: ${{ steps.last_commit.outputs.last_date }}"
+          echo "last_date=$LAST_DATE" >> $GITHUB_ENV
 
       - name: Update README
         run: |
           sed -i "/<!--START_LAST_ACTIVITY-->/, /<!--END_LAST_ACTIVITY-->/c\
 <!--START_LAST_ACTIVITY-->\
-Última actividad: ${{ steps.last_commit.outputs.last_date }}\
+Última actividad: ${LAST_DATE}\
 <!--END_LAST_ACTIVITY-->" README.md
 
       - name: Commit changes
