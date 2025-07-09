@@ -65,8 +65,8 @@
 
 ## Actividad reciente
 
-<!--activity:start-->
-<!--activity:end-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
