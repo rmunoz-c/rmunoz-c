@@ -1,5 +1,8 @@
 <h1 align="center">¡Hola! / Hi there! 👋</h1>
 <h3 align="center">Soy Rubén Muñoz Calderón, desarrollador apasionado por la tecnología 🚀 / I’m Rubén Muñoz Calderón, a developer passionate about technology 🚀</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hello,%20I'm%20Rubén%20Muñoz%20Calderón-FF4081?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
