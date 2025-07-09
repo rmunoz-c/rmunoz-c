@@ -63,6 +63,14 @@
 
 ---
 
+### Última actividad
+
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
+
+
+---
+
 ## 📫 Contacto / Contact
 
 <p align="center">
