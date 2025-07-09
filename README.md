@@ -63,11 +63,10 @@
 
 ---
 
-### Última actividad
+## Última actividad
 
 <!--START_LAST_ACTIVITY-->
 <!--END_LAST_ACTIVITY-->
-
 
 ---
 
