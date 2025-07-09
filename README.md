@@ -65,8 +65,8 @@
 
 ### Última actividad
 
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
+<!--START_LAST_ACTIVITY-->
+<!--END_LAST_ACTIVITY-->
 
 
 ---
