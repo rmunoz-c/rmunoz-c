@@ -10,6 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # IMPORTANTE: Trae todo el historial
+
+      - name: Debug git log
+        run: |
+          echo "Mostrando el log completo:"
+          git log -3 || echo "No hay commits para mostrar"
 
       - name: Get last commit date
         id: last_commit
