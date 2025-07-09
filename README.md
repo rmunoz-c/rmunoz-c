@@ -1,5 +1,3 @@
-<h1 align="center">¡Hola! / Hi there! 👋</h1>
-
 <p align="center">
   <img src="https://github.com/rmunoz-c/rmunoz-c/blob/main/rmunoz-c.png" alt="¡Hola! Soy Rubén Muñoz Calderón" />
 </p>
