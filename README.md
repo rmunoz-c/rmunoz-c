@@ -75,7 +75,9 @@
 
 ---
 
-![Visitas](https://komarev.com/ghpvc/?username=rmunoz-c&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rmunoz-c&theme=fire&hide_border=true" alt="GitHub Streak" width="35%"/>
+</p>
 
 ---
 
