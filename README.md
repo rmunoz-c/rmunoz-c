@@ -66,11 +66,11 @@
 ## Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rmunoz-c/NetPrectice](https://github.com/rmunoz-c/NetPrectice)<br>
+1. ⬆️ Pushed 2 commit(s) to [rmunoz-c/NetPrectice](https://github.com/rmunoz-c/NetPrectice)<br>
 2. ⬆️ Pushed 1 commit(s) to [rmunoz-c/rmunoz-c](https://github.com/rmunoz-c/rmunoz-c)<br>
-3. ⬆️ Pushed 1 commit(s) to [rmunoz-c/rmunoz-c](https://github.com/rmunoz-c/rmunoz-c)<br>
-4. ⬆️ Pushed 1 commit(s) to [rmunoz-c/rmunoz-c](https://github.com/rmunoz-c/rmunoz-c)<br>
-5. ⬆️ Pushed 1 commit(s) to [rmunoz-c/rmunoz-c](https://github.com/rmunoz-c/rmunoz-c)<br>
+3. ⬆️ Pushed 1 commit(s) to [rmunoz-c/NetPrectice](https://github.com/rmunoz-c/NetPrectice)<br>
+4. ⬆️ Pushed 1 commit(s) to [rmunoz-c/NetPrectice](https://github.com/rmunoz-c/NetPrectice)<br>
+5. 📔 Created new repository [rmunoz-c/NetPrectice](https://github.com/rmunoz-c/NetPrectice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
