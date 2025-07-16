@@ -69,8 +69,8 @@
 1. ⬆️ Pushed 1 commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
 2. ⬆️ Pushed 1 commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
 3. ⬆️ Pushed 1 commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
-4. 📔 Created new repository [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
-5. ⬆️ Pushed 2 commit(s) to [rmunoz-c/NetPrectice](https://github.com/rmunoz-c/NetPrectice)<br>
+4. ⬆️ Pushed 1 commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
+5. ⬆️ Pushed 1 commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
