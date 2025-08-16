@@ -66,11 +66,6 @@
 ## Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
-2. ⬆️ Pushed 1 commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
-3. ⬆️ Pushed 1 commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
-4. ⬆️ Pushed 1 commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
-5. ⬆️ Pushed 1 commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
