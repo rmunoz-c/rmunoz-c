@@ -66,7 +66,7 @@
 ## Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
+1. ⬆️ Pushed undefined commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
