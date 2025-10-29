@@ -66,7 +66,8 @@
 ## Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
+1. 🤝 Became collaborator on [Dardo95/cub3d](https://github.com/Dardo95/cub3d)<br>
+2. ⬆️ Pushed undefined commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
