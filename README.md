@@ -66,10 +66,10 @@
 ## Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [rmunoz-c/cub3d](https://github.com/rmunoz-c/cub3d)<br>
-2. ⬆️ Pushed undefined commit(s) to [Dardo95/cub3d](https://github.com/Dardo95/cub3d)<br>
-3. 💪 Opened PR [#14](undefined) in [Dardo95/cub3d](https://github.com/Dardo95/cub3d)<br>
-4. ⬆️ Pushed undefined commit(s) to [rmunoz-c/cub3d](https://github.com/rmunoz-c/cub3d)<br>
+1. ⬆️ Pushed undefined commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
+2. ⬆️ Pushed undefined commit(s) to [rmunoz-c/cub3d](https://github.com/rmunoz-c/cub3d)<br>
+3. ⬆️ Pushed undefined commit(s) to [Dardo95/cub3d](https://github.com/Dardo95/cub3d)<br>
+4. 💪 Opened PR [#14](undefined) in [Dardo95/cub3d](https://github.com/Dardo95/cub3d)<br>
 5. ⬆️ Pushed undefined commit(s) to [rmunoz-c/cub3d](https://github.com/rmunoz-c/cub3d)<br>
 <!--RECENT_ACTIVITY:end-->
 
