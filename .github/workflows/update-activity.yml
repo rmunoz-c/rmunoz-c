@@ -14,7 +14,7 @@ jobs:
           fetch-depth: 0
 
       - name: Update GitHub Activity
-        uses: Readme-Workflows/recent-activity@main
+        uses: Readme-Workflows/recent-activity@v2
         with:
           CONFIG_FILE: .github/recent-activity.config.yml
         env:
