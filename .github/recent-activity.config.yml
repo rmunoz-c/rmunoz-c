@@ -1,2 +1,26 @@
+# Username para obtener la actividad
 GH_USERNAME: rmunoz-c
+
+# Máximo de líneas que aparecerán en el README
 MAX_LINES: 5
+
+# Mostrar iconos
+SHOW_ICONS: true
+
+# Orden: actividad más reciente primero
+COMMIT_MSG: "Updated recent activity"
+
+# Tipos de eventos permitidos (seguro, sin personalizaciones raras)
+EVENT_TYPES:
+  - PushEvent
+  - PullRequestEvent
+  - IssuesEvent
+  - IssueCommentEvent
+  - PullRequestReviewEvent
+  - PullRequestReviewCommentEvent
+  - StarEvent
+  - ForkEvent
+  - CreateEvent
+  - ReleaseEvent
+  - MemberEvent
+  - WatchEvent
