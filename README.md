@@ -66,11 +66,11 @@
 ## Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [rmunoz-c/ft_irc](https://github.com/rmunoz-c/ft_irc)<br>
-2. ⬆️ Pushed undefined commit(s) to [miaviles11/ft_irc](https://github.com/miaviles11/ft_irc)<br>
-3. 💪 Opened PR [#2](undefined) in [miaviles11/ft_irc](https://github.com/miaviles11/ft_irc)<br>
-4. ⬆️ Pushed undefined commit(s) to [rmunoz-c/ft_irc](https://github.com/rmunoz-c/ft_irc)<br>
-5. ⬆️ Pushed undefined commit(s) to [rmunoz-c/ft_irc](https://github.com/rmunoz-c/ft_irc)<br>
+1. ⬆️ Pushed undefined commit(s) to [rmunoz-c/rmunoz-c](https://github.com/rmunoz-c/rmunoz-c)<br>
+2. ⬆️ Pushed undefined commit(s) to [rmunoz-c/rmunoz-c](https://github.com/rmunoz-c/rmunoz-c)<br>
+3. ⬆️ Pushed undefined commit(s) to [rmunoz-c/rmunoz-c](https://github.com/rmunoz-c/rmunoz-c)<br>
+4. ⬆️ Pushed undefined commit(s) to [rmunoz-c/rmunoz-c](https://github.com/rmunoz-c/rmunoz-c)<br>
+5. ⭐ Starred [rmunoz-c/ft_irc](https://github.com/rmunoz-c/ft_irc)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
