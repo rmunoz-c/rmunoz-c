@@ -69,8 +69,8 @@
 1. ⬆️ Pushed undefined commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
 2. ⬆️ Pushed undefined commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
 3. ⬆️ Pushed undefined commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
-4. 🤝 Became collaborator on [GGasset/ft_transcendence](https://github.com/GGasset/ft_transcendence)<br>
-5. ⬆️ Pushed undefined commit(s) to [rmunoz-c/Inception](https://github.com/rmunoz-c/Inception)<br>
+4. ⬆️ Pushed undefined commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
+5. ⬆️ Pushed undefined commit(s) to [rmunoz-c/CPPs](https://github.com/rmunoz-c/CPPs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
