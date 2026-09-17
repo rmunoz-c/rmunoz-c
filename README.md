@@ -44,10 +44,6 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rmunoz-c&theme=radical&hide_border=true" alt="GitHub Streak" width="32%" />
 </p>
 
-<p align="center">
-  <img src="./profile/activity.svg" alt="GitHub Activity Graph" width="95%" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
