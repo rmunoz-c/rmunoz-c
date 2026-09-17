@@ -72,7 +72,11 @@
 ## 📈 Actividad reciente / Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-
+1. ⬆️ Pushed undefined commit(s) to [rmunoz-c/rmunoz-c](https://github.com/rmunoz-c/rmunoz-c)<br>
+2. ⬆️ Pushed undefined commit(s) to [rmunoz-c/rmunoz-c](https://github.com/rmunoz-c/rmunoz-c)<br>
+3. ⬆️ Pushed undefined commit(s) to [rmunoz-c/Exam05](https://github.com/rmunoz-c/Exam05)<br>
+4. ⬆️ Pushed undefined commit(s) to [rmunoz-c/Exam05](https://github.com/rmunoz-c/Exam05)<br>
+5. ⭐ Starred [Univers42/Examen42](https://github.com/Univers42/Examen42)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
