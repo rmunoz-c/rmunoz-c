@@ -39,8 +39,8 @@
 ## 📊 Estadísticas de GitHub / GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmunoz-c&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmunoz-c&layout=compact&theme=radical" alt="Lenguajes más usados" width="32%" />
+  <img src="./profile/stats.svg" alt="Estadísticas de GitHub" width="32%" />
+  <img src="./profile/top-langs.svg" alt="Lenguajes más usados" width="32%" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rmunoz-c&theme=radical&hide_border=true" alt="GitHub Streak" width="32%" />
 </p>
 
@@ -53,9 +53,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rmunoz-c&theme=darkhub" alt="GitHub Profile Trophies" loading="lazy"/>
-  </a>
+  <img src="./profile/trophies.svg" alt="GitHub Profile Trophies" loading="lazy"/>
 </p>
 
 ---
