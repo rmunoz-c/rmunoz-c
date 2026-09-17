@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rmunoz-c&theme=dracula" alt="Gráfico de actividad de GitHub" width="95%" loading="lazy"/>
+  <img src="./profile/activity.svg" alt="GitHub Activity Graph" width="95%" />
 </p>
 
 ---
