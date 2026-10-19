@@ -68,7 +68,6 @@
 ## 📈 Actividad reciente / Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [rmunoz-c/rmunoz-c](https://github.com/rmunoz-c/rmunoz-c)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
