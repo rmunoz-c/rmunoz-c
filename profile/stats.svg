@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Rub&#233;n Mu&#241;oz Calder&#243;n&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 75, Total PRs: 29, Total Issues: 13, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 74, Total PRs: 29, Total Issues: 13, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 197.62054958842697;
+        stroke-dashoffset: 197.71501379084376;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >75</text>
+      >74</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
